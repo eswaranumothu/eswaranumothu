@@ -1,5 +1,7 @@
 #  👋 Hi, I’m @eswaranumothu
-![WhatsApp Image 2024-10-15 at 11 20 47 PM](https://github.com/user-attachments/assets/dc01accf-d55a-4616-9f1b-f88aac864679)
+https://github.com/user-attachments/assets/ae24c056-f273-4d01-ba98-d05dd1fd4ed5
+
+
 ## ABOUT ME
  A dedicated and forward-thinking Information Security graduate with a strong belief in leveraging technology efficiently to achieve optimal results. Passionate about utilizing existing tools and resources in innovative ways to solve complex challenges, while avoiding unnecessary complexities. Skilled in security protocols and committed to safeguarding data in the digital age. Looking to contribute my expertise in a role that values smart, practical technology solutions
 
