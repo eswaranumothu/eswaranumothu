@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm ESWAR ANUMOTHU</h1>
 <h3 align="center">A dedicated and forward-thinking Information Security graduate</h3>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/0f24aa69-3021-4eae-b452-9c6a5da1e0c5" alt="ESWAR ANUMOTHU Protect Your Data">
+    <img src="https://github.com/user-attachments/assets/07069749-987d-4686-afd1-0c602a7fe28b" alt="ESWAR ANUMOTHU Protect Your Data">
 </div>
+
 
 ## About Me
 Information Security graduate with a strong belief in leveraging technology efficiently to achieve optimal results. Passionate about utilizing existing tools and resources in innovative ways to solve complex challenges, while avoiding unnecessary complexities. Skilled in security protocols and committed to safeguarding data in the digital age. Looking to contribute my expertise in a role that values smart, practical technology solutions.
