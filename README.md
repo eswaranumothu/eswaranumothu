@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ESWAR ANUMOTHU</h1>
 <h3 align="center">A dedicated and forward-thinking Information Security graduate</h3>
-
+![WhatsAppVideo2024-10-16at12 14 59AM-ezgif com-optimize](https://github.com/user-attachments/assets/0f24aa69-3021-4eae-b452-9c6a5da1e0c5)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswaranumothu&label=Profile%20views&color=0e75b6&style=flat" alt="eswaranumothu" /> </p>
 
 <h3 align="left">Connect with me:</h3>
