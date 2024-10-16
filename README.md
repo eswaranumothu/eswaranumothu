@@ -1,9 +1,15 @@
+
 <h1 align="center">Hi 👋, I'm ESWAR ANUMOTHU</h1>
 <h3 align="center">A dedicated and forward-thinking Information Security graduate</h3>
-![WhatsAppVideo2024-10-16at12 14 59AM-ezgif com-optimize](https://github.com/user-attachments/assets/0f24aa69-3021-4eae-b452-9c6a5da1e0c5)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eswaranumothu&label=Profile%20views&color=0e75b6&style=flat" alt="eswaranumothu" /> </p>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/0f24aa69-3021-4eae-b452-9c6a5da1e0c5" alt="ESWAR ANUMOTHU Protect Your Data">
+</div>
 
-<h3 align="left">Connect with me:</h3>
+## EDUCATION
+Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - INFORMATION SECURITY (CS205)    
+CHANDIGARH UNIVERSITY
+
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/eswaranumothu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eswaranumothu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anumothu eswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anumothu eswar" height="30" width="40" /></a>
